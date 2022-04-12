@@ -1,6 +1,8 @@
-Hello! Eu sou a Dai, aprendiz de programação! 🌱
+ Hello! Eu sou a Dai! 
 
-📊 Atualmente, sou líder adm em empresa de saúde e tecnologia.
+- Atualmente, sou líder adm em empresa de saúde e tecnologia.
+- 📚 Cursando Engenharia de Software.
+- 🌱 Aprendiz de programação.
 
 <div> 
  <a href="https://www.linkedin.com/in/daiane-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
