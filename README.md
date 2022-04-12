@@ -5,5 +5,5 @@ Oiii! Eu sou a Dai 👋
 <div>
   <a href="https://github.com/limadaiane/limadaiane">
     <a href = "mailto:contatordaildslima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/in/daiane-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://instagram.com/com/_limadaiane_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/daiane-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/_limadaiane_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
