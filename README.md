@@ -1,10 +1,10 @@
- Hello! Eu sou a Dai! 
-
-- Atualmente, sou líder adm em empresa de saúde e tecnologia.
-- 📚 Cursando Engenharia de Software.
-- 🌱 Aprendiz de programação.
-
-<div> 
+Olá! Eu sou a Dai !   
+  
+  . Atualmente, sou líder adm em empresa de saúde e tecnologia.   
+  . 📚Cursando Engenharia de Software.  
+  . 🌱Aprendiz de programação.  
+    
+     
  <a href="https://www.linkedin.com/in/daiane-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href ="https://myaccount.google.com/?utm_source=OGB&tab=mk&utm_medium=app"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
