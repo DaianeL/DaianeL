@@ -1,8 +1,11 @@
 Oiii eu sou a Dai!  
   
   . Atualmente, sou líder adm em empresa de saúde e tecnologia. 
+  
   . 📚Cursando Engenharia de Software.  
+  
   . 🌱Aprendiz de programação.  
+  
   . 🎬Falo um pouquinho sobre transição de carreira e estudos no meu canal do Youtube, vem ver?!
     
      
