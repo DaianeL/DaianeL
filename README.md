@@ -1,8 +1,9 @@
-Olá! Eu sou a Dai !   
+Oiii eu sou a Dai!  
   
-  . Atualmente, sou líder adm em empresa de saúde e tecnologia.   
+  . Atualmente, sou líder adm em empresa de saúde e tecnologia. 
   . 📚Cursando Engenharia de Software.  
   . 🌱Aprendiz de programação.  
+  . 🎬Falo um pouquinho sobre transição de carreira e estudos no meu canal do Youtube, vem ver?!
     
      
  <a href="https://www.linkedin.com/in/daiane-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
