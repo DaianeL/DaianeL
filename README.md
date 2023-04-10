@@ -2,8 +2,6 @@ Oiii eu sou a Dai!
   
   . 📚Cursando Engenharia de Software.  
   
-  . 🌱Aprendiz de programação.  
-  
   . 🎬Falo um pouquinho sobre transição de carreira e estudos no meu canal do Youtube, vem ver?!
     
      
